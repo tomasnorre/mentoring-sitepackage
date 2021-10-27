@@ -28,3 +28,5 @@ page {
         mentoring_sandbox_scripts = EXT:mentoring_sandbox/Resources/Public/JavaScript/Dist/scripts.js
     }
 }
+
+plugin.tx_news.view.templateRootPaths = EXT:mentoring_sandbox/Resources/Private/Templates/Extensions/News/
