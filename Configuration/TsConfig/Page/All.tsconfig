@@ -1,0 +1,7 @@
+#
+# PageTS for Mentoring Sandbox
+#
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:mentoring_sandbox/Configuration/TsConfig/Page/RTE.tsconfig">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:mentoring_sandbox/Configuration/TsConfig/Page/TCEFORM.tsconfig">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:mentoring_sandbox/Configuration/TsConfig/Page/TCEMAIN.tsconfig">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:mentoring_sandbox/Configuration/TsConfig/Page/Mod/WebLayout/BackendLayouts.tsconfig">
