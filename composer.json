@@ -6,6 +6,7 @@
     "license": ["GPL-2.0-or-later"],
     "keywords": ["TYPO3 CMS"],
     "require": {
+        "georgringer/news": "^8.6",
         "bk2k/bootstrap-package": "^11.0 || ^12.0"
     },
     "autoload": {
