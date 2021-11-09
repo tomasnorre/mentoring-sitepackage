@@ -67,3 +67,9 @@ page.theme.socialmedia.channels.facebook.url = https://www.facebook.com/typo3/
 page.theme.socialmedia.channels.twitter.url = https://twitter.com/psypher1
 page.theme.socialmedia.channels.github.url = https://github.com/psypher1
 page.theme.socialmedia.channels.youtube.url = https://www.youtube.com/user/typo3
+
+################################
+### Bootstrap Colors ........... ###
+################################
+plugin.bootstrap_package.settings.scss.primary = #4605AD
+plugin.bootstrap_package.settings.scss.secondary = #FD8700
