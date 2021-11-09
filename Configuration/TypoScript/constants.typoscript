@@ -73,3 +73,9 @@ page.theme.socialmedia.channels.youtube.url = https://www.youtube.com/user/typo3
 ################################
 plugin.bootstrap_package.settings.scss.primary = #4605AD
 plugin.bootstrap_package.settings.scss.secondary = #FD8700
+
+
+################################
+### Font Family ........... ###
+################################
+page.theme.googleFont.font = Lora
